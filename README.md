@@ -1,8 +1,3 @@
-👋 Hi, I’m Natalie Vittini
-💻 I love Javascript, it is my favorite coding language.
-👀 I’m interested in growing in the tech industry.
-🌱 I’m a Front End Developer, I love creating and problem-solving.
-🌺 Vinyasa Yoga teacher
-📫 You can contact me via email at natalievittini@gmail.com
 
+👋 Hi, I'm Natalie Vittini! 💻 I have a deep passion for JavaScript, which happens to be my favorite coding language. 👀 My main interest lies in advancing within the tech industry. 🌱 As a Front End Developer, I thoroughly enjoy the process of creating and solving problems. 🌺 In addition to my technical pursuits, I am also a Vinyasa Yoga teacher. 📫 Feel free to reach out to me via email at natalievittini@gmail.com
 
